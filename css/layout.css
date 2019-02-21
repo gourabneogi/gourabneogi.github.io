@@ -384,7 +384,7 @@ ul#nav li.current a { color: #F06000; }
 
 #works {
    background: #2B2B2B;
-   padding-top: 90px;
+   padding-top: 50px;
    padding-bottom: 72px;
    overflow: hidden;
 }
@@ -396,6 +396,8 @@ ul#nav li.current a { color: #F06000; }
    font: 18px/24px 'opensans-bold', sans-serif;
    text-transform: uppercase;
    letter-spacing: 1px;
+   color: #000000;
+   text-align: center;
 }
 #works h1 span {
    border-bottom: 3px solid #11ABB0;
